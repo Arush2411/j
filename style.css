@@ -1,0 +1,28 @@
+#google_lens
+{
+    width: 220px;
+    height: 170px;
+}
+.heading
+{
+    width: 100%;
+    margin: 0px;
+    font-size: 27px;
+    box-shadow: 6px 7px 12px orangered;
+    font-family: 'Fredoka One', cursive;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    font-family: 'Fredoka One', cursive;
+}
+
+.test_image_and_result img
+{
+height: 100px;
+width: 100px;
+}
+
+.div_heading {
+height: fit-content;
+}
+
